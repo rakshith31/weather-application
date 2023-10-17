@@ -7,8 +7,9 @@
 
 body{
     
-    background-image: url(bgimage.png);
     background-size: 100%;
+    background-image: url(bgimage.png);
+    background-repeat: no-repeat;
     position:relative;
 }
 
